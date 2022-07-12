@@ -4,7 +4,6 @@
 - 💞️ My facebook Profile link:-  https://www.facebook.com/khalidhasan.chowdhury.10/
 
 
-<!---
 
 I am WordPress full-stack developer, WordPress design & Developer Expert. WooCommerce. Plugin Development. PHP. API. I like do complex high quality websites.
 
@@ -25,4 +24,3 @@ I am always trying to find the best solution for the client about price and qual
 thanks & regards
 Khalid Chowdhury
 
---->
