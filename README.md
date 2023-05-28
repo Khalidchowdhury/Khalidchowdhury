@@ -1,26 +1,24 @@
 - 👋 Hi, I’m @Khalidchowdhury
-- 👀 I’m interested in Computer Proggraming
+- 👀 I’m interested in Coding such as Design & Development
 - 🌱 I’m currently learning high level Computer Proggraming
 - 💞️ My facebook Profile link:-  https://www.facebook.com/khalidhasan.chowdhury.10/
 
 
 
-I am WordPress full-stack developer, WordPress design & Developer Expert. WooCommerce. Plugin Development. PHP. API. I like do complex high quality websites.
+I am Full-stack developer Web Application Developer With PHP & PHP Framework Laravel & WordPress. 
 
-My best skills:
-- Custom Theme & Plugin Develop
-- Any type website creation
-- Page Speed Optimization, I do easy 100 points on Google PSI for mobile
-- high quality front-end development
-- deep WordPress knowledges (plugins and themes creation or customization)
-- high JavaScript / PHP / jQuery / Bootstrap / HTML5 / CSS3
-- ability to make complex and big systems
-- pixel perfect PSD to HTML or WordPress slicing
-- good sense of design
-
-I am always trying to find the best solution for the client about price and quality and I give the client unlimited revision till he is satisfied.
+My skills :-
+- Custom Website Design Using HTML, CSS, Bootstrap & JavaScript.
+- Custom Website Development using Row PHP or Laravel.
+- Laravel any type Application or website make
+- Make a Short time very unique & awesome website using WordPress.
+- WordPress custom theme & Plugin Development
+- Any type website creation Like Management system Application, Booking Application, Online Shop, E-commerce website, Restaurants website, Personal Portfolio & Blogging website etc.
+- Very Clean & Fresh Code
 
 
-thanks & regards
+I am always trying to find the best solution for the client about price and quality I try to give my 100% to my clients.
+
+
+Thanks & Regards
 Khalid Chowdhury
-
